@@ -1,9 +1,7 @@
 # MySQL-Analytics-Report-AtliQ-Hardware
 ## 📌 Project Overview
 
-* SQL Finance Analytics project using the AtliQ Hardware dataset. Analyzed sales, customers, products, pricing, discounts, and market performance using SQL.
----
-
+SQL Finance Analytics project using the AtliQ Hardware dataset. Analyzed sales, customers, products, pricing, and market performance using SQL.
 ## 🎯 Project Objectives
 
 * Analyze customer, product, sales, and pricing data.
